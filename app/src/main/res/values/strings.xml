@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Resume Builder</string>
+    <string name="choose_a_template">Choose a Template</string>
+    <string name="template_1">Template 1</string>
+    <string name="template_2">Template 2</string>
+    <string name="template">Template</string>
+    <string name="back">BACK</string>
+    <string name="next">Next</string>
+    <string name="name">Name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="contact">Contact</string>
+    <string name="education_details">Education Details</string>
+    <string name="email">Email</string>
+    <string name="college">Institute</string>
+    <string name="branch">Branch</string>
+    <string name="percentage">Percentage (Till Now)</string>
+    <string name="Other">Other</string>
+    <string name="skill">Skills e.g. (C, C++, Python)</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="project">Project</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="template1">Template1</string>
+</resources>
